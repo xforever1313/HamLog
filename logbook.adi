@@ -1,0 +1,31 @@
+ADIF Export
+<programid:11>sBITX-sblog
+<eoh>
+<call:6>WD4AGF <band:3>10m <freq:6>28.074 <mode:3>FT8 <qso_date:8>20260207 <time_on:4>2009 <rst_sent:3>-10 <rst_rcvd:3>-15 <exch_sent:4>FN13 <exch_recv:4>EL96 <eor>
+<call:4>W5XO <band:3>10m <freq:6>28.074 <mode:3>FT8 <qso_date:8>20260207 <time_on:4>2003 <rst_sent:2>-5 <rst_rcvd:2>-5 <exch_sent:4>FN13 <exch_recv:4>EM10 <eor>
+<call:5>N0NWY <band:3>10m <freq:6>28.074 <mode:3>FT8 <qso_date:8>20260207 <time_on:4>1906 <rst_sent:1>1 <rst_rcvd:1>8 <exch_sent:4>FN13 <exch_recv:4>DN97 <eor>
+<call:5>KF9UG <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260206 <time_on:4>0337 <rst_sent:2>-1 <rst_rcvd:3>-15 <exch_sent:4>FN13 <exch_recv:4>EN71 <eor>
+<call:4>KY9L <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260206 <time_on:4>0335 <rst_sent:3>-11 <rst_rcvd:3>-20 <exch_sent:4>FN13 <exch_recv:4>EN72 <eor>
+<call:6>KE2ELI <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260206 <time_on:4>0332 <rst_sent:2>-8 <rst_rcvd:3>-14 <exch_sent:4>FN13 <exch_recv:4>FN13 <eor>
+<call:5>W2LGB <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260131 <time_on:4>2048 <rst_sent:3>-14 <rst_rcvd:3>-12 <exch_sent:4>FN13 <exch_recv:4>FN21 <eor>
+<call:4>N2XK <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260131 <time_on:4>2036 <rst_sent:3>-16 <rst_rcvd:3>-17 <exch_sent:4>FN13 <exch_recv:4>FN20 <eor>
+<call:5>VE2NC <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260131 <time_on:4>2033 <rst_sent:3>-17 <rst_rcvd:3>-17 <exch_sent:4>FN13 <exch_recv:4>FN48 <eor>
+<call:5>K2IRM <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260131 <time_on:4>2029 <rst_sent:3>-16 <rst_rcvd:3>-13 <exch_sent:4>FN13 <exch_recv:4>FN22 <eor>
+<call:5>W9OSI <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2121 <rst_sent:1>2 <rst_rcvd:2>-2 <exch_sent:4>FN13 <exch_recv:4>EM49 <eor>
+<call:5>K4LPH <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2114 <rst_sent:2>-2 <rst_rcvd:3>-10 <exch_sent:4>FN13 <exch_recv:4>FM06 <eor>
+<call:5>AA1SU <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2102 <rst_sent:1>3 <rst_rcvd:2>-9 <exch_sent:4>FN13 <exch_recv:4>FN34 <eor>
+<call:4>K1RH <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2058 <rst_sent:1>8 <rst_rcvd:1>3 <exch_sent:4>FN13 <exch_recv:4>FM19 <eor>
+<call:4>NS0K <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2048 <rst_sent:1>1 <rst_rcvd:2>-1 <exch_sent:4>FN13 <exch_recv:4>EM95 <eor>
+<call:6>VE2OPC <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2044 <rst_sent:1>9 <rst_rcvd:3>RRR <exch_sent:4>FN13 <eor>
+<call:5>N4THG <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2031 <rst_sent:3>-12 <rst_rcvd:2>-5 <exch_sent:4>FN13 <exch_recv:4>EM86 <eor>
+<call:4>K0PT <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2026 <rst_sent:3>-10 <rst_rcvd:3>-15 <exch_sent:4>FN13 <exch_recv:4>EM94 <eor>
+<call:4>AF4M <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2024 <rst_sent:2>-8 <rst_rcvd:3>-13 <exch_sent:4>FN13 <exch_recv:4>FM05 <eor>
+<call:4>K9GI <band:3>30m <freq:6>10.137 <mode:3>FT8 <qso_date:8>20260118 <time_on:4>2021 <rst_sent:1>1 <rst_rcvd:1>5 <exch_sent:4>FN13 <exch_recv:4>EN70 <eor>
+<call:4>WS7M <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251213 <time_on:4>0236 <rst_sent:2>-4 <rst_rcvd:1>0 <exch_sent:4>FN13 <exch_recv:4>DN70 <eor>
+<call:5>AI5AY <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20251202 <time_on:4>0320 <rst_sent:2>-8 <rst_rcvd:3>-12 <exch_sent:4>FN13 <exch_recv:4>EM32 <eor>
+<call:5>N4KAA <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0333 <rst_sent:2>-2 <rst_rcvd:2>-1 <exch_sent:4>FN13 <exch_recv:4>FM16 <eor>
+<call:5>N4ZJB <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0323 <rst_sent:2>-4 <rst_rcvd:2>-9 <exch_sent:4>FN13 <exch_recv:4>FM08 <eor>
+<call:6>WA8LRW <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0317 <rst_sent:1>6 <rst_rcvd:1>8 <exch_sent:4>FN13 <exch_recv:4>EN91 <eor>
+<call:6>KC2MOE <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0310 <rst_sent:1>1 <rst_rcvd:2>-6 <exch_sent:4>FN13 <exch_recv:4>FN20 <eor>
+<call:6>KF8EVL <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0300 <rst_sent:2>-7 <rst_rcvd:2>-6 <exch_sent:4>FN13 <exch_recv:4>EN91 <eor>
+<call:5>9Y4DG <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20251122 <time_on:4>0242 <rst_sent:3>-11 <rst_rcvd:2>-4 <exch_sent:4>FN13 <exch_recv:4>FK90 <eor>
