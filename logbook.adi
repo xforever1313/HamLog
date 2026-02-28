@@ -1,6 +1,16 @@
 ADIF Export
 <programid:11>sBITX-sblog
 <eoh>
+<call:5>K9LCY <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2039 <rst_sent:2>-1 <rst_rcvd:2>-8 <exch_sent:4>FN13 <exch_recv:4>EM69 <eor>
+<call:6>KC5HPK <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2036 <rst_sent:2>-4 <rst_rcvd:3>-12 <exch_sent:4>FN13 <exch_recv:4>EM31 <eor>
+<call:6>KQ4TDQ <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2030 <rst_sent:1>4 <rst_rcvd:1>4 <exch_sent:4>FN13 <exch_recv:4>EL88 <eor>
+<call:6>KC0VTJ <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2028 <rst_sent:1>1 <rst_rcvd:3>-18 <exch_sent:4>FN13 <exch_recv:4>EM28 <eor>
+<call:5>AD9GL <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2017 <rst_sent:1>6 <rst_rcvd:1>3 <exch_sent:4>FN13 <exch_recv:4>EN61 <eor>
+<call:5>S57AM <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>2001 <rst_sent:3>-13 <rst_rcvd:3>-16 <exch_sent:4>FN13 <exch_recv:4>JN66 <eor>
+<call:5>N1LCE <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>1959 <rst_sent:1>4 <rst_rcvd:3>RRR <exch_sent:4>FN13 <eor>
+<call:5>N1LCE <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>1957 <rst_sent:2>-4 <rst_rcvd:3>-11 <exch_sent:4>FN13 <exch_recv:4>EM84 <eor>
+<call:3>W1N <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>1952 <rst_sent:1>2 <rst_rcvd:1>9 <exch_sent:4>FN13 <exch_recv:4>EN51 <eor>
+<call:4>N0PQ <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260228 <time_on:4>1948 <rst_sent:2>11 <rst_rcvd:2>-3 <exch_sent:4>FN13 <exch_recv:4>EN51 <eor>
 <call:5>N8GFD <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260222 <time_on:4>2349 <rst_sent:2>-5 <rst_rcvd:3>-15 <exch_sent:4>FN13 <exch_recv:4>EN91 <eor>
 <call:5>N1FCC <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260222 <time_on:4>2331 <rst_sent:2>-9 <rst_rcvd:3>-23 <exch_sent:4>FN13 <exch_recv:4>FN43 <eor>
 <call:4>K9TF <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260215 <time_on:4>2134 <rst_sent:3>-13 <rst_rcvd:3>-20 <exch_sent:4>FN13 <exch_recv:4>EN35 <eor>
