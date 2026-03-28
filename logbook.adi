@@ -1,6 +1,9 @@
 ADIF Export
 <programid:11>sBITX-sblog
 <eoh>
+<call:6>WA9ARE <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260328 <time_on:4>0132 <rst_sent:1>9 <rst_rcvd:2>-8 <exch_sent:4>FN13 <exch_recv:4>EM60 <eor>
+<call:3>N0A <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260328 <time_on:4>0126 <rst_sent:1>7 <rst_rcvd:2>-7 <exch_sent:4>FN13 <exch_recv:4>EM36 <eor>
+<call:5>K2DSW <band:3>20m <freq:6>14.074 <mode:3>FT8 <qso_date:8>20260328 <time_on:4>0124 <rst_sent:1>3 <rst_rcvd:2>-1 <exch_sent:4>FN13 <exch_recv:4>EN31 <eor>
 <call:5>K1MCO <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260322 <time_on:4>2223 <rst_sent:1>5 <rst_rcvd:3>-10 <exch_sent:4>FN13 <exch_recv:4>FM17 <eor>
 <call:5>W8WEJ <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260322 <time_on:4>2221 <rst_sent:1>5 <rst_rcvd:2>-1 <exch_sent:4>FN13 <exch_recv:4>EM99 <eor>
 <call:6>KF8CGF <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260322 <time_on:4>2217 <rst_sent:1>0 <rst_rcvd:3>-11 <exch_sent:4>FN13 <eor>
