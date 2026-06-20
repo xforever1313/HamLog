@@ -1,6 +1,17 @@
 ADIF Export
 <programid:11>sBITX-sblog
 <eoh>
+<call:6>ON7KEI <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0323 <rst_sent:2>-1 <rst_rcvd:3>-19 <exch_sent:4>FN13 <exch_recv:4>JO21 <eor>
+<call:5>F1DXP <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0314 <rst_sent:2>-2 <rst_rcvd:2>-9 <exch_sent:4>FN13 <exch_recv:4>JN05 <eor>
+<call:4>VB7F <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0308 <rst_sent:1>0 <rst_rcvd:2>-6 <exch_sent:4>FN13 <exch_recv:4>CN89 <eor>
+<call:4>OS4K <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0300 <rst_sent:3>-12 <rst_rcvd:3>-13 <exch_sent:4>FN13 <eor>
+<call:4>NW5X <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0259 <rst_sent:2>11 <rst_rcvd:2>-4 <exch_sent:4>FN13 <exch_recv:4>EM13 <eor>
+<call:5>KF9UG <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0253 <rst_sent:2>-4 <rst_rcvd:3>-10 <exch_sent:4>FN13 <exch_recv:4>EN71 <eor>
+<call:4>K8OM <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0251 <rst_sent:1>6 <rst_rcvd:1>5 <exch_sent:4>FN13 <exch_recv:4>EN42 <eor>
+<call:6>YO6BHN <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0240 <rst_sent:2>-3 <rst_rcvd:3>-23 <exch_sent:4>FN13 <exch_recv:4>KN25 <eor>
+<call:5>HA7TM <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0235 <rst_sent:2>-1 <rst_rcvd:3>-10 <exch_sent:4>FN13 <exch_recv:4>JN97 <eor>
+<call:6>KA5PUD <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0224 <rst_sent:1>8 <rst_rcvd:3>-14 <exch_sent:4>FN13 <exch_recv:4>EM20 <eor>
+<call:5>KE9SQ <band:3>40m <freq:5>7.074 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0215 <rst_sent:1>2 <rst_rcvd:3>-15 <exch_sent:4>FN13 <exch_recv:4>EM11 <eor>
 <call:5>N0URB <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260515 <time_on:4>0229 <rst_sent:2>-4 <rst_rcvd:3>-20 <exch_sent:4>FN13 <exch_recv:4>DM26 <eor>
 <call:5>N5OHM <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260515 <time_on:4>0224 <rst_sent:1>2 <rst_rcvd:3>-12 <exch_sent:4>FN13 <exch_recv:4>EM26 <eor>
 <call:6>KJ5HTG <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260515 <time_on:4>0221 <rst_sent:2>-9 <rst_rcvd:3>-10 <exch_sent:4>FN13 <exch_recv:4>EM13 <eor>
