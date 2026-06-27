@@ -1,6 +1,8 @@
 ADIF Export
 <programid:11>sBITX-sblog
 <eoh>
+<call:5>NO1ZE <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260627 <time_on:4>2307 <rst_sent:2>-4 <rst_rcvd:1>6 <exch_sent:4>FN13 <exch_recv:4>EM78 <eor>
+<call:6>WD8CZG <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260627 <time_on:4>2252 <rst_sent:3>-12 <rst_rcvd:4>R-01 <exch_sent:4>FN13 <eor>
 <call:6>ON7KEI <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0323 <rst_sent:2>-1 <rst_rcvd:3>-19 <exch_sent:4>FN13 <exch_recv:4>JO21 <eor>
 <call:5>F1DXP <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0314 <rst_sent:2>-2 <rst_rcvd:2>-9 <exch_sent:4>FN13 <exch_recv:4>JN05 <eor>
 <call:4>VB7F <band:3>30m <freq:6>10.136 <mode:3>FT8 <qso_date:8>20260620 <time_on:4>0308 <rst_sent:1>0 <rst_rcvd:2>-6 <exch_sent:4>FN13 <exch_recv:4>CN89 <eor>
